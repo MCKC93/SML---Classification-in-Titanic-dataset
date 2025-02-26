@@ -1,4 +1,4 @@
-# Supervised Machine Learning---Classification-in-Titanic-dataset 
+# Supervised Machine Learning - Classification in Titanic dataset 
 
 ## Overview  
 This project applies **Supervised Machine Learning** techniques to predict the survival of Titanic passengers based on different features such as **class, age, gender, and fare**. Using Python and libraries like **pandas, scikit-learn, seaborn, and matplotlib**, the dataset is preprocessed, analyzed, and used to train multiple classification models.  
